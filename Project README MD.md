@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?logo=googlecolab&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
@@ -211,7 +211,7 @@ Implement an **ERP system** tailored for waste management to automate:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/waste-management-eda.git
+   git clone https://github.com/shanisidhu686-bot/waste-management-eda.git
    cd waste-management-eda
    ```
 
@@ -220,10 +220,10 @@ Implement an **ERP system** tailored for waste management to automate:
    pip install pandas numpy matplotlib seaborn plotly openpyxl
    ```
 
-3. **Open the notebook:**
-   ```bash
-   jupyter notebook Main_Project_EDA_Of_Waste_Management.ipynb
-   ```
+3. **Open in Google Colab:**
+   - Go to [colab.research.google.com](https://colab.research.google.com)
+   - Click **File → Open notebook → GitHub**, paste your repo URL, and open the `.ipynb` file
+   - Or upload the `.ipynb` file directly via **File → Upload notebook**
 
 4. **Run all cells** — the dataset is loaded directly from Google Drive via the embedded link.
 
@@ -241,14 +241,15 @@ waste-management-eda/
 
 ---
 
+## 👨‍💻 Author
 
-
-**Sidhrathul Munthaha**
-- GitHub: [@your-username](https://github.com/shanisidhu686-bot)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/sidhrathul-munthaha)
+**Sidhra**
+- GitHub: [@shanisidhu686-bot](https://github.com/shanisidhu686-bot)
+- LinkedIn: [sidhrathul-munthaha](https://www.linkedin.com/in/sidhrathul-munthaha)
 
 ---
 
-
+## 📄 License
 
 This project is for educational and analytical purposes. The dataset belongs to the respective waste management company and has been used solely for academic analysis.
+
